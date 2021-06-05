@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-- calories tracking tracking
+- calories/exercise tracking tool
 
 ## workflow
 
